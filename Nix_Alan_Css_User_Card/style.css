@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    width: 300px;
+}
+.page{
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+.container{
+width: 600px;
+margin: 0 auto;
+border: 2px solid lightgray;
+}
+.header{
+    background-color: teal;
+    height: 75px;
+    padding-left: 10px;
+}
+.main{
+    padding-top: 35px;
+    width: 600px;
+    height: 165px;
+    background-color: orange;
+    /* margin: 50px; */
+}
+.rowcontent{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.icon{
+    height: 20px;
+}
+.row{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.edit{
+    color: blue;
+    text-decoration: blue underline;
+}
+    #picture{
+        height: 75px;
+        padding-top: 30px;
+        left: 10px;
+        /* padding-bottom: 50px; */
+}
