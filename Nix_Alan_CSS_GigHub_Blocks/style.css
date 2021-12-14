@@ -1,0 +1,45 @@
+h1{
+    font-size: 50px;
+}
+p{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.container{
+    background-color: teal;
+    width: 850px;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-top: 5px solid rgb(255,110,0);
+    border-bottom: 1px solid teal;
+}
+.image{
+    height: 200px;
+}
+.rowtop{
+    display: flex;
+    background-color:rgb(255,150,0);
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.rowmiddle{
+    display: flex;
+    background-color:rgb(255,130,0);
+    justify-content: space-evenly;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 25px;
+}
+.rowbottom{
+    display: flex;
+    background-color:rgb(255,110,0);
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 25px;
+}
+.backgroundcolor{
+    background: white;
+}
