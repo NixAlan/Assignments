@@ -1,0 +1,18 @@
+h1{
+    background-color: black;
+    color: white;
+}
+h2{
+    text-align: center;  
+    background-color: blueviolet; 
+    color: white;
+    }
+h3{
+    background-color: lightblue;
+    color: lightslategray;
+    text-align: right;
+    text-decoration-line: underline; 
+}
+.teal {
+    color: teal;
+}
